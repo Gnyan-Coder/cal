@@ -1,0 +1,108 @@
+.bgimg{
+    background-image: url('../image/developerback.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 1000px;
+}
+
+.headerset{
+    padding-top: 350px;
+    box-sizing: border-box;
+}
+.headerset h2{
+    font-size: 50px;
+
+}
+.headerset h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+/* ourservices */
+.ourservices{
+    padding: 100px 0px 60px;
+    height: 700px;
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rowsettings{
+    margin: 80px 0px !important;
+}
+.imgsettings{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+
+}
+.fa-shopping-cart{
+    margin-top: 20px;
+}
+.fa-desktop{
+    margin-top: 22px;
+}
+.fa-lock{
+    margin-top: 20px;
+}
+.rowsettings p{
+    padding: 10px;
+    color: #6c757d !important;
+}
+.rowsettings h2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size:30px ;
+}
+/* portfolio */
+.portfolio{
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+}
+.portfolio h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.card{
+    margin-top: 50px;
+}
+
+/* ourteam */
+.ourteam{
+    height: 700px;
+    padding: 100px 0px 60px;
+    width: 100%;
+}
+.ourteam h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.teamsetting{
+    margin-top: 70px !important;
+}
+/* footer */
+.footer{
+    height: 50px;
+}
+.footer h6{
+    line-height: 50px;
+    margin-top: 200px;
+}
+
+/* Responsive */
+@media(min-width:992px){
+
+}
+@media(min-width:768px) and (max-width: 991px){
+
+}
+@media(min-width:575px) and (max-width: 767px){
+
+}
+@media(max-width:480px) and (max-width:574px){
+    
+}
+@media(max-width:479px){
+
+}
